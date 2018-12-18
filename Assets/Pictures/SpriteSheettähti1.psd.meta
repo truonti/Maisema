@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-guid: bbcc112108780364dac7655c7cc69800
+guid: 194334c19e165614c9aa4aeff0454068
 TextureImporter:
   fileIDToRecycleName:
-    21300000: tonttu_lahja_0
-    21300002: tonttu_lahja_1
-    21300004: tonttu_lahja_2
-    21300006: tonttu_lahja_3
-    21300008: tonttu_lahja_4
-    21300010: tonttu_lahja_5
-    21300012: tonttu_lahja_6
+    21300000: "SpriteSheetta\u0308hti1_0"
+    21300002: "SpriteSheetta\u0308hti1_1"
+    21300004: "SpriteSheetta\u0308hti1_2"
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -113,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tonttu_lahja_0
+      name: "SpriteSheetta\u0308hti1_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 600
-        height: 438
+        x: 28
+        y: 23
+        width: 67
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,19 +123,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b01b5c7192bd5147a1ec878d6b13477
+      spriteID: 9215491d3c0433e4096892c83e40e4df
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_1
+      name: "SpriteSheetta\u0308hti1_1"
       rect:
         serializedVersion: 2
-        x: 600
-        y: 0
-        width: 600
-        height: 438
+        x: 157
+        y: 19
+        width: 67
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,19 +143,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 059b0490669d1db45bc8b564fea1d5a7
+      spriteID: f27605332cfc6cf4c9993205e578f004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_2
+      name: "SpriteSheetta\u0308hti1_2"
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 600
-        height: 438
+        x: 275
+        y: 23
+        width: 69
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,87 +163,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53e15fdd510568849b04e94c61749170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tonttu_lahja_3
-      rect:
-        serializedVersion: 2
-        x: 1800
-        y: 0
-        width: 600
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99f5fbda1103a034f89eeeb63dc2a0d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tonttu_lahja_4
-      rect:
-        serializedVersion: 2
-        x: 2400
-        y: 0
-        width: 600
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bfd8f2fd629127409b0c6148669072f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tonttu_lahja_5
-      rect:
-        serializedVersion: 2
-        x: 3000
-        y: 0
-        width: 600
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9655f29a9bae70409fe0da193403589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tonttu_lahja_6
-      rect:
-        serializedVersion: 2
-        x: 3600
-        y: 0
-        width: 600
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 395be5fabb26d0247bff8b4a06d0e3cf
+      spriteID: 331fc51a2f336b443ba9dc7d02454250
       vertices: []
       indices: 
       edges: []
@@ -255,7 +171,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4d4f64ee9de209c4f8c8daca88ba3378
+    spriteID: b94a461d092199447a88baf79823eb7c
     vertices: []
     indices: 
     edges: []

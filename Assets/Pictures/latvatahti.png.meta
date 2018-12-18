@@ -1,14 +1,15 @@
 fileFormatVersion: 2
-guid: bbcc112108780364dac7655c7cc69800
+guid: f116f1e7fd11d2748a74b0372e1a4c67
 TextureImporter:
   fileIDToRecycleName:
-    21300000: tonttu_lahja_0
-    21300002: tonttu_lahja_1
-    21300004: tonttu_lahja_2
-    21300006: tonttu_lahja_3
-    21300008: tonttu_lahja_4
-    21300010: tonttu_lahja_5
-    21300012: tonttu_lahja_6
+    21300000: latvatahti_0
+    21300002: latvatahti_1
+    21300004: latvatahti_2
+    21300006: latvatahti_3
+    21300008: latvatahti_4
+    21300010: latvatahti_5
+    21300012: latvatahti_6
+    21300014: latvatahti_7
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -113,13 +114,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tonttu_lahja_0
+      name: latvatahti_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,19 +128,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b01b5c7192bd5147a1ec878d6b13477
+      spriteID: 93481429ebbc19045901013a158a5059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_1
+      name: latvatahti_1
       rect:
         serializedVersion: 2
-        x: 600
+        x: 547
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,19 +148,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 059b0490669d1db45bc8b564fea1d5a7
+      spriteID: 4b31d341da2b79c45b07409cd39b034f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_2
+      name: latvatahti_2
       rect:
         serializedVersion: 2
-        x: 1200
+        x: 1094
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,19 +168,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53e15fdd510568849b04e94c61749170
+      spriteID: 739a676ee55c9dd4a9a8a1d4f818e5b4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_3
+      name: latvatahti_3
       rect:
         serializedVersion: 2
-        x: 1800
+        x: 1641
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,19 +188,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99f5fbda1103a034f89eeeb63dc2a0d0
+      spriteID: 50687d5464472c84cbb451bade63aa32
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_4
+      name: latvatahti_4
       rect:
         serializedVersion: 2
-        x: 2400
+        x: 2188
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,19 +208,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bfd8f2fd629127409b0c6148669072f
+      spriteID: f04a0d770ddd80d4aaa36efeaec85d4e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_5
+      name: latvatahti_5
       rect:
         serializedVersion: 2
-        x: 3000
+        x: 2735
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,19 +228,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9655f29a9bae70409fe0da193403589
+      spriteID: a6be98da2655a2b46885f61008be0808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tonttu_lahja_6
+      name: latvatahti_6
       rect:
         serializedVersion: 2
-        x: 3600
+        x: 3282
         y: 0
-        width: 600
-        height: 438
+        width: 547
+        height: 365
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,7 +248,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 395be5fabb26d0247bff8b4a06d0e3cf
+      spriteID: 45937816f28ccaa4caf2a35e5d8cbf48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: latvatahti_7
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 0
+        width: 547
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ac4dd5ef076944822734a979bb0b6
       vertices: []
       indices: 
       edges: []
@@ -255,7 +276,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4d4f64ee9de209c4f8c8daca88ba3378
+    spriteID: c200ac3775d6dc0408831ed2e9d6ef20
     vertices: []
     indices: 
     edges: []
